@@ -2,7 +2,7 @@
 
 # Case Study Insights: Yoga-Based Interventions in Mental and Musculoskeletal Disorders
 
-This repository contains structured healthcare case studies conducted as part of my M.Sc. in Yoga Therapy at SVYASA Yoga University. These projects integrate qualitative data collection, clinical observation, and outcome measurement with a focus on mental health and chronic pain management.
+This repository contains structured healthcare case studies conducted as part of my M.Sc. in Yoga Therapy - life science. These projects integrate qualitative data collection, clinical observation, and outcome measurement with a focus on mental health and chronic pain management.
 
 # Case Study 1: Cyclothymia (Mood Disorder)
 
